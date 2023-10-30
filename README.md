@@ -1,5 +1,4 @@
 # Project 9: Cell type-specific and druggable pathway models and maps
-----
 
 ## Teams:
 
