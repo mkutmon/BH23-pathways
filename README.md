@@ -1,4 +1,5 @@
-# Project 9: Cell type-specific and druggable pathway models and maps
+# Cell type-specific and druggable pathway models and maps
+This project was started as part of the BioHackathon hosted near Barcelona in November 2023.
 
 ## Teams:
 Summary of the initial discussions and distributions into subteams. Not final - always possible to switch or join other topics!
